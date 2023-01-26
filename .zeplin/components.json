@@ -1,0 +1,24 @@
+{
+    
+    "plugins": [
+        {
+            "name": "@zeplin/cli-connect-angular-plugin",
+            "config": {
+                "useFullSnippet": true,
+                "useFullDescription": true
+            }
+        }
+    ],
+    "projects": [
+        "63d0f2207f6fbc7a8cfdfa79"
+    ],
+    "styleguides": [],
+    "components": [
+        {
+            "path": "src/stories/Prueba.stories.ts",
+            "zeplinIds": [
+                "63d0f2439d98d17934e5735f"
+            ]
+        }
+    ]
+}
